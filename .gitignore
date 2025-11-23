@@ -11,7 +11,12 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-images/
+wandb/
+logs/
+checkpoints/
+.venv/
+.blip_model/
+Images/
 develop-eggs/
 dist/
 downloads/
